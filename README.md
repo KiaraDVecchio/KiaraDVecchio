@@ -1,16 +1,16 @@
-## Hi there 👋
+## ¡Hola! Soy Kiara 👋
 
-<!--
-**KiaraDVecchio/KiaraDVecchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas de Información en la **UTN FRBA**. 
 
-Here are some ideas to get you started:
+## 🚀 Mis Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En el siguiente repositorio, podés explorar una colección de proyectos que he desarrollado, tanto de forma colaborativa como individual, como parte de mi formación académica:
+👉 **[Portfolio de mis proyectos de la facultad](LINK_A_TU_REPO_AQUÍ)**
+
+---
+
+### 🛠️ Tecnologías principales
+`Java` | `JavaScript` | `SQL`
+
+### 📫 Contacto
+* kiiaravecchio@gmail.com
